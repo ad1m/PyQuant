@@ -11,7 +11,11 @@ Usage:
 
 
     x = tech.cumulative_returns()
+    
+    
     print x
 
     sharpe = tech.Sharpe_Ratio()
+    
+    
     print sharpe
